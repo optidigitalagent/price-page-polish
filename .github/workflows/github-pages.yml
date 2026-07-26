@@ -64,4 +64,4 @@ jobs:
         id: deployment
         uses: actions/deploy-pages@v4
 
-# GitHub Pages enabled; this commit triggers the live deployment for /case-gallery-update/.
+# GitHub Pages enabled; this commit triggers the live deployment for /price-page-polish/.
