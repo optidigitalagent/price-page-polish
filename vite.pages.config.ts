@@ -5,7 +5,7 @@ import tsconfigPaths from "vite-tsconfig-paths";
 
 export default defineConfig({
   root: "pages",
-  base: "/case-gallery-update/",
+  base: "/price-page-polish/",
   publicDir: "../public",
   plugins: [tsconfigPaths(), tailwindcss(), react()],
   build: {
